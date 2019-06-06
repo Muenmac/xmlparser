@@ -1,0 +1,25 @@
+<ORDER>
+    <ORDER_INFO>
+        <ORDER_HEADER>
+            <ORDER_ID />
+            <CUSTOMER_ID>4561237890</CUSTOMER_ID>
+        </ORDER_HEADER>
+        <BILLING_ADDRESS>
+            <COMPANY>PET-Flaschenversand</COMPANY>
+            <NAME>Peter Probekunde</NAME>
+            <STREET>Zschopauer Stra&#223;e 333b</STREET>
+            <ZIP>09126</ZIP>
+            <CITY>Chemnitz</CITY>
+            <COUNTRY>Deutschland</COUNTRY>
+            <TELEPHONE>0371-555 5656</TELEPHONE>
+            <EMAIL>Peter.probekunde@PET.de</EMAIL>
+        </BILLING_ADDRESS>
+        <DELIVERY_ADDRESS>
+            <STREET>Zschopauer Stra&#223;e 333b</STREET>
+            <ZIP>09126</ZIP>
+            <CITY>Chemnitz</CITY>
+            <COUNTRY>Deutschland</COUNTRY>
+        </DELIVERY_ADDRESS>
+        <ORDER_PRODUCTS />
+    </ORDER_INFO>
+</ORDER>
